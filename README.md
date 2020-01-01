@@ -22,3 +22,5 @@ Installs the project dependencies
 `npm run serve` 
 This command will start the Vue server with the front-end app working at 
 [http://localhost:8080/](http://localhost:8080/ "Your MEVN calendar app")
+
+note: This Code uses my online MongoDB database hosted on Atlas. Internet Connection is required.
