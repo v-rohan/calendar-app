@@ -21,4 +21,4 @@ Installs the project dependencies
 
 `npm run serve` 
 This command will start the Vue server with the front-end app working at 
-[I'm an inline-style link with title](http://localhost:8080/ "Your MEVN calendar app")
+[http://localhost:8080/](http://localhost:8080/ "Your MEVN calendar app")
