@@ -61,4 +61,9 @@ Database - A Mongo Atlas online database
 * **V. Rohan Rao**
 
 
+## Contributing
+
+Clone the repository, make a seperate branch, open your issue and make a Pull Request.
+
+
 
