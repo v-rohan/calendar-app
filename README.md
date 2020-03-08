@@ -31,7 +31,7 @@ open the front-end folder and run Windows Command Prompt or Powershell or termin
 `npm install` 
 Installs the project dependencies
 
-```
+
 
 
 ### Running the project
