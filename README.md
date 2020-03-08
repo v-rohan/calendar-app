@@ -4,13 +4,13 @@ This project will help the user schedule events and get reminders from them, alo
 
 
 ## Screen-grabs
-![List view](https://raw.githubusercontent.com/v-rohan/calenadr-app/master/img/list.png)
+![List view](https://raw.githubusercontent.com/v-rohan/calendar-app/master/img/list.png)
 
-![Event added](https://raw.githubusercontent.com/v-rohan/calenadr-app/master/img/added.png)
+![Event added](https://raw.githubusercontent.com/v-rohan/calendar-app/master/img/added.png)
 
-![Event deleted](https://raw.githubusercontent.com/v-rohan/calenadr-app/master/img/delete.png)
+![Event deleted](https://raw.githubusercontent.com/v-rohan/calendar-app/master/img/delete.png)
 
-![Event reminder](https://raw.githubusercontent.com/v-rohan/calenadr-app/master/img/reminder.png)
+![Event reminder](https://raw.githubusercontent.com/v-rohan/calendar-app/master/img/reminder.png)
 
 
 
