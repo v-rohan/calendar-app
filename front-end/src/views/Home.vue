@@ -11,6 +11,7 @@
 </template>
 
 <script>
+/* eslint-disable */
 import Events from '../components/Events';
 import AddEvent from '../components/AddEvent';
 import {Calendar} from 'vue-sweet-calendar'
